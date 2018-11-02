@@ -180,7 +180,7 @@ def plot_maps(top_n):
     lat_list=[]
     lon_list=[]
     for key in lat_lon.keys():
-            if lat_lon[key]<=num_crimes[0] and lat_lon[key]>=num_crimes[top_n]:
+            if lat_lon[key]<=num_crimes[0] and lat_lon[key]>=num_crimes[top_n-1]:
                 lat_lon_tup=key.replace("(","").replace(")","").split(",")
                 try:
                     lat_list.append(float(lat_lon_tup[0]))
@@ -198,7 +198,7 @@ if __name__ == "__main__":
     preprocess()
 
     # plot the maps using google maps API, and also plot the top 20
-    plot_maps(top_n=5)
+    plot_maps(top_n=6)
 
     # graph the number of crimes for the stipulated age groups
     # toggle showgraph to see graph using the matplotlib interfacce(so that y0ou can adjust the dimentions)
