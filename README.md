@@ -19,7 +19,7 @@ python assignment.py
 
 # Results!
 ## Scatter plot!
-My program enables you to plot the crime number of crimes on a map and color codes them according to the top quartile, 50th-75th percentile, 25th to 50th percentile, and bottom quartile
+My program enables you to plot the number of crimes on a map and color codes them according to the top quartile, 50th-75th percentile, 25th to 50th percentile, and bottom quartile
 ![Alt text](/images/scatter_plot.png?raw=true "Optional Title")
 
 * Red: top 25% 17-1163 crimes!
@@ -27,7 +27,7 @@ My program enables you to plot the crime number of crimes on a map and color cod
 * Yellow bottom 25% to bottom 50%: 2-7 crimes!
 * Green: bottom 25%: 1-2 crimes!
 
-*Notice this data is skewed to the right! This means that areas prone to crimes have an extreme amount of crime and areas not prone to crime have very little crime! Very interesting…*
+*Notice this data is skewed to the right! This means that crime is heavily concentrated at certain locations, and almost not present in others(look at the north half)! Very interesting…*
 
 ## Plotting the worst 20 (Unexpected results!):
 My program also lets you plot the worst crime areas allowing you to have a deeper understanding of the data….
