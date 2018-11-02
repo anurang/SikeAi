@@ -198,7 +198,7 @@ if __name__ == "__main__":
     preprocess()
 
     # plot the maps using google maps API, and also plot the top 20
-    plot_maps(top_n=10)
+    plot_maps(top_n=20)
 
     # graph the number of crimes for the stipulated age groups
     # toggle showgraph to see graph using the matplotlib interfacce(so that y0ou can adjust the dimentions)
