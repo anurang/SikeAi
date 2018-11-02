@@ -3,7 +3,7 @@
 
 ## prerequisits
 Have the file 
-Crime_Data_from_2010_to_Present.csv that uses the *"excel format"* that contains the crime data for LA for the past 8 years
+Crime_Data_from_2010_to_Present.csv that uses the *"CSV for excel"* format that contains the crime data for LA for the past 8 years
 
 ```
 downloded via this link: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
