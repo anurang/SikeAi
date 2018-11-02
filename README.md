@@ -34,12 +34,16 @@ My program also lets you plot the worst crime areas allowing you to have a deepe
 ![Alt text](/images/top_20.png?raw=true "Optional Title")
 
 
-Plotting top 20 gave very interesting results, popular to popular belief, **2 spots in Westwood fall under the top 20 crime areas, in-fact Westwood is in the top 10!**
+Plotting top 20 gave very interesting results, contrary to popular belief, **2 spots in Westwood fall under the top 5 crime areas, in-fact Westwood is in the top 10!**
 
 ![Alt text](/images/westwood.png?raw=true "Optional Title")
 
 ### Worst 5
 Unsurprisingly, the top 5 worst places were the popular malls and outlet areas, which include century city, westside bulaward and Wilshire bulaward
+
+Surprisingly though WESTWOOD was in the top 5!
+![Alt text](/images/top_5.png?raw=true "Optional Title")
+
 
 ### The worst!
 The number one spot for crime was century city
