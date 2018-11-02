@@ -2,8 +2,13 @@
 
 
 ## prerequisits
-have the file 
-Crime_Data_from_2010_to_Present.csv that uses the excel format!
+Have the file 
+Crime_Data_from_2010_to_Present.csv that uses the excel format that ccontains the crime data for LA for the past 8 years
+
+```
+downloded via this link: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
+```
+
 ## python modules used
 * csv
 * collections  
